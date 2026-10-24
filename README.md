@@ -1,4 +1,4 @@
-<h1 align="center">🎮 PS4 / PS4 Pro (Belize) Initramfs Patch 🚀</h1>
+<h1 align="center">🎮 PS4 / PS4 Pro (Belize) Initramfs Patch [ext4] 🚀</h1>
 <p align="center"><b>Simple Guide to Run Linux</b></p>
 
 
