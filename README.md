@@ -1,5 +1,5 @@
-🎮 PS4 / PS4 Pro (Belize) Initramfs Patch + Simple Guide to Run Linux 🚀
-
+<h1 align="center">🎮 PS4 / PS4 Pro (Belize) Initramfs Patch 🚀</h1>
+<p align="center"><b>Simple Guide to Run Linux</b></p>
 
 
 > [!TIP]
