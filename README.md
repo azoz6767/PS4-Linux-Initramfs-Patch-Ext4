@@ -1,7 +1,6 @@
 <h1 align="center">🎮 PS4 / PS4 Pro (Belize) Initramfs Patch [ext4] 🚀</h1>
 <p align="center"><b>Simple Guide to Run Linux</b></p>
 
-
 > [!TIP]
 > **100% Stable.** Built on `better_initramfs_v0.9.1`. Designed exclusively for PS4 / PS4 Pro (Belize Southbridge).
 > 
@@ -43,6 +42,9 @@ Use FTP (explained below) to transfer the files.
 2.  **Linux System (Distro Archive):**
     *   Path: **`/user/system/boot/`**
     *   Put: `psxitarch.tar.xz` (or `.tar.gz`).
+3.  **Payloads:**
+    *   Path: **`/user/data/payloads/`**
+    *   *Note: Create this folder yourself if it doesn't exist. Put the `.bin` payloads you downloaded and modified here so they appear in GoldHEN's Payloader.*
 
 ---
 
